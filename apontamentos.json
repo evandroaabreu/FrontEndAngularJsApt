@@ -1,0 +1,487 @@
+[
+{"cc":"32342",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"97653",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"75643",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"87900",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"12546",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+
+{"cc":"87901",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"27890",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"34567",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"54633",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+{"cc":"15567",
+ "totalapont":"2040",
+ "totalprev":"1000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+    "Operador" : [
+      { "nome" : "Jose",
+        "totalapont": "500"    
+      },
+      { "nome" : "Paulo",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "2000",
+     "Operador" : [
+      { "nome" : "Joaquim Pereira",
+        "totalapont": "1500"    
+      },
+      { "nome" : "Mario",
+        "totalapont": "500"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "3000",
+     "Operador" : [
+      { "nome" : "Antonio",
+        "totalapont": "2000"    
+      },
+      { "nome" : "Marcelo",
+        "totalapont": "1000"    
+      }            
+     ]    
+    }    
+  ]
+  
+}, 
+
+
+ 
+{"cc":"98013",
+"totalapont":"1233",
+"totalprev":"5000", 
+  "Maquinas": [
+    {
+    "nomeMaquina": "Montagem",
+    "totalapont": "500",
+     "Operador" : [
+      { "nome" : "Itamar",
+        "totalapont": "250"    
+      },
+      { "nome" : "Francisco",
+        "totalapont": "250"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Estamparia",
+    "totalapont": "800",
+     "Operador" : [
+      { "nome" : "João Martin",
+        "totalapont": "400"    
+      },
+      { "nome" : "Ivan",
+        "totalapont": "400"    
+      }            
+     ]    
+    },
+    {
+    "nomeMaquina": "Usinagem",
+    "totalapont": "1000",
+     "Operador" : [
+      { "nome" : "Rafael",
+        "totalapont": "500"    
+      },
+      { "nome" : "Arlindo",
+        "totalapont": "500"    
+      }            
+     ]    
+    }    
+  ]
+}
+]
